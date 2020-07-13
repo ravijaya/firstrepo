@@ -2,5 +2,6 @@
 
 int main()
 {
-	printf("a sample c program");
+	char[] s = "hello c";
+	printf(s);
 }
